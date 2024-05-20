@@ -9,7 +9,7 @@ const Hero = () => {
         get more opens, clicks, and</span> <br /> sales.
       </p>
       <button
-    className="bg-yellow-400 text-black border border-black font-bold py-6 px-8 rounded-full hover:bg-yellow-500 transition-colors"
+    className="bg-yellow-400 text-black font-bold border border-black px-4 py-4 rounded-full transition duration-600 transform hover:translate-y-4 hover:shadow-inset-b-black hover:shadow-xl"
   >
     Sign Up
   </button>
